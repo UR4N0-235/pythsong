@@ -4,7 +4,7 @@ using an txt file
 
 # how use this?
 ## First of all, you need python
-python - install (here)[https://www.python.org/downloads/] I think
+python - install [here](https://www.python.org/downloads/) I think
 
 ## Now just put all your songs in the txt musicList.txt
 that's all, just run the main.py an only song will download
